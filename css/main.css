@@ -1,2 +1,19 @@
-.banner {
+html {
+  font-family: Georgia, serif;
+}
+
+.content {
+  background-color: #495562;
+  color: #fff;
+}
+
+.btn {
+  border: 3px solid #97a49b;
+  color: #fff;
+}
+
+.btn:hover {
+  border: 3px solid #efefef;
+  background-color: #efefef;
+  color: #495562;
 }
